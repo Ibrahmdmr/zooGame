@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2395" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2395" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/drawable/logo_foreground.xml" value="0.2395" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_ana_sayfa.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_bitis_sayfasi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_bitis_sayfasi_mavi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_bitis_sayfasi_sari.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_ceylan.xml" value="0.264" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_ceylan_mavi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_ceylan_oncesi.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_ceylan_oncesi_mavi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_ceylan_oncesi_sari.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_ceylan_sari.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_deve.xml" value="0.264" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_deve_kusu.xml" value="0.264" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_deve_kusu_oncesi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_deve_mavi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_deve_oncesi.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_deve_oncesi_mavi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_deve_oncesi_sari.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_deve_sari.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_devekusu_mavi.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_devekusu_oncesi_mavi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_devekusu_oncesi_sari.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_devekusu_sari.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_keci.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_keci_mavi.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_keci_oncesi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_keci_oncesi_mavi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_keci_oncesi_sari.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_keci_sari.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_kurallar.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_kurallar1.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_kurallar2.xml" value="0.264" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_kurallar3.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_kurallar4.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_kurallar5.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_lama.xml" value="0.264" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_lama_mavi.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_lama_oncesi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_lama_oncesi_mavi.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_lama_oncesi_sari.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_lama_sari.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_midilli.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_midilli_bitis_kirmizi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_midilli_mavi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_midilli_oncesi.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_midilli_oncesi_mavi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_midilli_oncesi_sari.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_midilli_sari.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_no_rozet_blue.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_no_rozet_yellow.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_ordek.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_ordek_mavi.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_ordek_oncesi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_ordek_oncesi_mavi.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_ordek_oncesi_sari.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_ordek_sari.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_qractivity.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_rozet_kaybetme.xml" value="0.264" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_rozet_sari.xml" value="0.1936725096194955" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_rozet_sayfasi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_rozet_sayfasi_mavi.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_takim_belirleme.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_tavsan.xml" value="0.264" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_tavsan_mavi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_tavsan_oncesi.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_tavsan_oncesi_mavi.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_tavsan_oncesi_sari.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_tavsan_sari.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/layout/activity_usak_giris.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/mipmap-anydpi-v26/logo.xml" value="0.2395" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/ZooGame_/app/src/main/res/mipmap-anydpi-v26/logo_round.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.abc.iboo.xyz.zoogame_">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ZooGame_"
+        tools:targetApi="31">
+        <activity
+            android:name=".NoRozetYellowActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NoRozetBlueActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RozetSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RozetSayfasiMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RozetKaybetmeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Kurallar5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Kurallar4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Kurallar3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Kurallar2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Kurallar1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".BitisSayfasiSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BitisSayfasiMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".QRActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OrdekSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LamaSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LamaOncesiSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OrdekOncesiSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DevekusuSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TavsanSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TavsanOncesiSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeveSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeveOncesiSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CeylanSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CeylanOncesiSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KeciSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KeciOncesiSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MidilliSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KeciMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KeciOncesiMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OrdekMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OrdekOncesiMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DevekusuMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DevekusuOncesiMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeveMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeveOncesiMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CeylanMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CeylanOncesiMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TavsanMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TavsanOncesiMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LamaMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LamaOncesiMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MidilliMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MidilliOncesiSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MidilliBitisKirmiziActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DevekusuOncesiSariActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MidilliOncesiMaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LamaOncesiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MidilliOncesiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OrdekOncesiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeveKusuOncesiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RozetSayfasiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TavsanOncesiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CeylanOncesiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KeciOncesiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeveOncesiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KurallarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UsakGirisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TakimBelirlemeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BitisSayfasiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeveKusuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MidilliActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KeciActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LamaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OrdekActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DeveActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CeylanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".tavsanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnaSayfaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
